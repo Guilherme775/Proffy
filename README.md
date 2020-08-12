@@ -23,6 +23,7 @@ Extras:
 - Main Libs
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
+  - [Styled-components](https://styled-components.com/)
 - Estilos
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
